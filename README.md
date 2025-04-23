@@ -132,8 +132,10 @@ Repositorio de prueba para la tarea 2.2.a
 13. Muestra el log utilizando solo una línea por commit con opciones gráficas. ¿Qué comando/s utilizas?
     ```text
     // Respuesta
-    
+   
     ``` 
+  
+
 14. Posicionate de nuevo en la rama `main`, y crea otra rama `fea/wac02`, posicionandote directamente en ella. Agrega un fichero `03.xml`, agrega al área de stage y realiza commit "Add file 03".
 
     ```xml
